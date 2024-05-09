@@ -1,0 +1,21 @@
+.login_box{
+
+    height: 100vh;
+
+}
+.r_b{
+    height: 100vh;
+}
+
+.login_form{
+    background-color: rgba(255, 255, 255, 1);
+    box-shadow: 0 0 10px rgba(29, 29, 30, 0.995);
+    border: 2px rgba(255, 255, 255, 0.65) solid;
+    border-radius: 10px;
+    padding: 20px 10px;
+
+}
+
+.l_btn{
+    width: 40%;
+}

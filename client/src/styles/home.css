@@ -1,0 +1,13 @@
+.home_box, .r_b{
+    height: 100vh;
+}
+
+.header{
+    margin-bottom: 30px;
+    color: black;
+}
+
+.home_btn{
+    width: 20%;
+    margin-bottom: 10px;
+}
